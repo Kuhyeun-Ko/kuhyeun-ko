@@ -4,14 +4,13 @@
 ## Papers
 | **Year** | **Conference** | **Title** | **Repository** |
 |:---:|:---:|:---:|:---:|
-|2021 | -|Context-Aware Unsupervised Clustering for Person Search                               |[Code](https://github.com/VIP-Lab-UNIST/CUCPS_public)       |
+|2021 | -|[Context-Aware Unsupervised Clustering for Person Search](https://arxiv.org/abs/2110.01341)|[Code](https://github.com/VIP-Lab-UNIST/CUCPS_public)       |
 |2021 | ICCV|End-to-End Trainable Trident Person Search Network Using Adaptive Gradient Propagation|Code  |
 
 ## Projects
 Following projects are conducted on the coursework or challenge. The projects easily run on the docker images from [Docker hub](https://hub.docker.com/u/khko).
 
 <br/>
-<center>
 
 | **Projects**                  | **Repository**  |
 |:---|:---:|
